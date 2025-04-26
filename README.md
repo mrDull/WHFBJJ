@@ -19,12 +19,12 @@ Install the dependencies using:
 1. pip install -r requirements.txt
 
 Dependencies:
-	- customtkinter
-	- inflect
-	- pyautogui
-	- pydirectinput
-	- CTkMessagebox
-	- pynput
+- customtkinter
+- inflect
+- pyautogui
+- pydirectinput
+- CTkMessagebox
+	-pynput
 
 (Built-in Python modules like time, threading, and webbrowser don’t need to be installed.)
 
@@ -34,11 +34,11 @@ Dependencies:
 1.	Clone the repo:
 git clone https://github.com/yourusername/roblox-auto-jj.git
 
-	2.	Install the required packages:
+2.	Install the required packages:
 pip install -r requirements.txt
 
 
-3.	Run the py script:
+3.	Run the script:
 python main.py
 
 
