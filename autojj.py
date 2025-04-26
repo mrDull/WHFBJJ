@@ -157,7 +157,7 @@ def start_script():
                 pd.press('space')
         
 
-        CTkMessagebox(title="Done", message="Jack script finished!", icon="check")
+        CTkMessagebox(title="Done", message="JJ script finished!", icon="check")
 
     except Exception as e:
         CTkMessagebox(title="Error", message=f"Something went wrong:\n{e}", icon="cancel")
@@ -188,6 +188,7 @@ def on_press(key):
         elif key == Key.f6:  # Stop the script when 'N' is pressed
             should_stop = True  # Set the stop flag
             print("Stopping script...")
+											 CTkMessagebox(title="Done", message="JJ script cut short!", icon="check")
     except AttributeError:
         pass  # Handle special keys like shift, etc.
 
