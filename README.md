@@ -1,4 +1,4 @@
-Roblox Auto JJ
+# Roblox Auto JJ
 
 A simple automation tool that automatically triggers “JJ” actions in Roblox games.
 
