@@ -5,10 +5,10 @@ A simple automation tool that automatically triggers “JJ” actions in Roblox 
 
 # Features
 
-	•	Automatically sends pre-programmed key presses
-	•	Lightweight and easy to use
-	•	Built with Python and libraries like pynput, pyautogui, and pydirectinput
-	•	Customizable settings
+	Automatically sends pre-programmed key presses
+	Lightweight and easy to use
+	Built with Python and libraries like pynput, pyautogui, and pydirectinput
+	Customizable settings
 ---
 # Requirements
 
