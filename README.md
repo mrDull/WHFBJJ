@@ -14,9 +14,12 @@ A simple automation tool that automatically triggers “JJ” actions in Roblox
 
 # Requirements
 
-Install the dependencies using:
+1. Install a version that is < 3.x.x of Python.
 
-1. pip install -r requirements.txt
+2. Install the dependencies using:
+
+- pip install -r requirements.txt
+
 
 Dependencies:
 - customtkinter
@@ -32,9 +35,11 @@ Dependencies:
 # Setup
 	
 1.	Clone the repo:
+
 git clone https://github.com/yourusername/roblox-auto-jj.git
 
 2.	Install the required packages:
+
 pip install -r requirements.txt
 
 
