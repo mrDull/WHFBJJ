@@ -1,0 +1,6 @@
+customtkinter
+inflect
+pyautogui
+pydirectinput
+CTkMessagebox
+pynput
