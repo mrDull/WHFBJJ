@@ -23,7 +23,7 @@ app.geometry("400x605")
 app.title("Roblox JJ Automator by dreamsrotting")
 
 # --- Widgets ---
-label_title = ctk.CTkLabel(app, text="USME JJ Script", font=("Arial", 22))
+label_title = ctk.CTkLabel(app, text="USME JJ Script <3", font=("Arial", 22))
 label_title.pack(pady=10)
 
 entry_num = ctk.CTkEntry(app, placeholder_text="How many JJs?", width=200)
