@@ -20,12 +20,12 @@ Install the dependencies using:
 1. pip install -r requirements.txt
 
 Dependencies:
-	•	customtkinter
-	•	inflect
-	•	pyautogui
-	•	pydirectinput
-	•	CTkMessagebox
-	•	pynput
+	- customtkinter
+	- inflect
+	- pyautogui
+	- pydirectinput
+	- CTkMessagebox
+	- pynput
 
 (Built-in Python modules like time, threading, and webbrowser don’t need to be installed.)
 
@@ -45,8 +45,8 @@ python main.py
 ---
 
 Notes
-	•	Make sure you have Roblox open before starting the script.
-	•	Some games may require tweaking settings depending on anti-cheat systems.
+	- Make sure you have Roblox open before starting the script.
+	- Some games may require tweaking settings depending on anti-cheat systems.
 
  # Disclaimer
 
