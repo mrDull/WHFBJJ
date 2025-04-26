@@ -14,7 +14,7 @@ A simple automation tool that automatically triggers “JJ” actions in Roblox
 
 # Requirements
 
-1. Install a version that is < 3.x.x of Python.
+1. Install a version that is a version of< 3.x.x of Python.
 
 2. Install the dependencies using:
 
