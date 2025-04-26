@@ -1,14 +1,16 @@
 # Roblox Auto JJ
 
 A simple automation tool that automatically triggers “JJ” actions in Roblox games.
+---
 
-Features
+# Features
+
 	•	Automatically sends pre-programmed key presses
 	•	Lightweight and easy to use
 	•	Built with Python and libraries like pynput, pyautogui, and pydirectinput
 	•	Customizable settings
-
-Requirements
+---
+# Requirements
 
 Install the dependencies using:
 
@@ -23,8 +25,9 @@ Dependencies:
 	•	pynput
 
 (Built-in Python modules like time, threading, and webbrowser don’t need to be installed.)
+---
 
-Setup
+# Setup
 	1.	Clone the repo:
 
 git clone https://github.com/yourusername/roblox-auto-jj.git
@@ -40,13 +43,13 @@ python main.py
 Notes
 	•	Make sure you have Roblox open before starting the script.
 	•	Some games may require tweaking settings depending on anti-cheat systems.
-
-Disclaimer
+---
+ # Disclaimer
 
 This tool is for educational purposes only.
 Use at your own risk.
 
-⸻
+---
 
 This was NOT made fukly by me, based off someone elses (couldnt find the repo) 
 credit goes to who made the orginal version. 
