@@ -197,7 +197,7 @@ listener.start()
 
 # --- URL Label ---
 def open_url(event):
-	print("nigger")   
+	print("not using:3")   
 
 url_label = ctk.CTkLabel(app, text="for we hate fat bitches", font=("Arial", 23, "underline"), fg_color="transparent")
 url_label.pack(pady=20)
