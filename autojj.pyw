@@ -183,7 +183,7 @@ def handle_start():
 start_btn = ctk.CTkButton(app, text="Start", command=handle_start)
 start_btn.pack(pady=30)
 
-warning = ctk.CTkLabel(app, text="F5 to Start, F6 to Stop", font=("Arial", 18, "underline"), fg_color="transparent")
+warning = ctk.CTkLabel(app, text="F5 to Start, F6 to Stop.", font=("Arial", 18, "underline"), fg_color="transparent")
 warning.pack(pady=2)
 
 # --- Keybinding Logic ---
