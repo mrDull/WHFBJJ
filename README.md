@@ -45,7 +45,11 @@ pip install -r requirements.txt
 
 3.	Run the script:
 
-python main.py
+python autojj.pyw
+
+OR 
+
+pythonw autojj.pyw (no console for this)
 
 
 
