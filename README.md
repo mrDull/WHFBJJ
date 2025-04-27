@@ -60,10 +60,8 @@ Use at your own risk.
 
 
 
---
+---
 This was NOT made fully by me, based off someone elses (couldnt find the repo) 
 credit goes to who made the orginal version. 
 ---
 this one will be updated and maintained.
----
-( we hate fat bitches is a friend group, inside joke :3 )
