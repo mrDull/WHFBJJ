@@ -1,27 +1,24 @@
 # Roblox Auto JJ
 
-A simple automation tool that automatically triggers “JJ” actions in Roblox 
+An automation tool that triggers "JJ" actions in Roblox games, designed for simplicity, speed, and customization.
 
-# Features
+## Features
 
-	
-- Automatically sends pre-programmed key presses
-- Lightweight and easy to use
-- Built with Python and libraries like pynput, pyautogui, and pydirectinput
-- Customizable settings
+- Automatically sends chats for your jjs!
+- Lightweight and easy to set up!
+- Built with Python using libraries like `pynput`, `pyautogui`, and `pydirectinput`
+- Customizable settings to match different games such as delay, type of JJ, etc!
 
+## Requirements
 
+- Python 3.x installed
+- Install dependencies by running:
 
-# Requirements
+```bash
+pip install -r requirements.txt
+```
 
-1. Install a version that is a version of< 3.x.x of Python.
-
-2. Install the dependencies using:
-
-- pip install -r requirements.txt
-
-
-Dependencies:
+### Included Dependencies
 - customtkinter
 - inflect
 - pyautogui
@@ -29,39 +26,45 @@ Dependencies:
 - CTkMessagebox
 - pynput
 
-(Built-in Python modules like time, threading, and webbrowser don’t need to be installed.)
+*(Built-in modules like `time`, `threading`, and `webbrowser` are already included with Python.)*
 
+## Setup
 
-# Setup
-	
-1.	Clone the repo:
+1. Clone the repository:
 
+```bash
 git clone https://github.com/yourusername/roblox-auto-jj.git
+```
 
-2.	Install the required packages:
+2. Install the required packages:
 
+```bash
 pip install -r requirements.txt
+```
 
+3. Run the script:
 
-3.	Run the script:
+```bash
+pythonw autojj.pyw   # No console window
+```
+or
 
-python main.py
+```bash
+python autojj.pyw    # Console window visible
+```
 
+## Notes
 
+- Make sure Roblox is open before starting the script.
+- Some games may require tweaking settings to bypass anti-cheat measures.
 
-Notes
-	- Make sure you have Roblox open before starting the script.
-	- Some games may require tweaking settings depending on anti-cheat systems.
+## Disclaimer
 
- # Disclaimer
+This tool is provided for **educational purposes only**.  
+Use responsibly and at your own risk.
 
-This tool is for educational purposes only.
-Use at your own risk.
+## Credits
 
-
-
----
-This was NOT made fully by me, based off someone elses (couldnt find the repo) 
-credit goes to who made the orginal version. 
----
-this one will be updated and maintained.
+Based on an earlier project (original repository unknown).  
+Credit to the original creator.  
+This version is actively maintained and updated.
