@@ -26,6 +26,9 @@ app.title("Roblox JJ Automator by dreamsrotting")
 label_title = ctk.CTkLabel(app, text="USME JJ Script <3", font=("Arial", 22))
 label_title.pack(pady=10)
 
+url_label2 = ctk.CTkLabel(app, text="made w/ love by dreamsrotting on discord", font=("Arial", 10, "underline"), fg_color="transparent")
+url_label2.pack(pady=1)
+
 entry_num = ctk.CTkEntry(app, placeholder_text="How many JJs?", width=200)
 entry_num.pack(pady=10)
 
@@ -203,11 +206,10 @@ listener.start()
 def open_url(event):
 	print("not using:3")   
 
-url_label = ctk.CTkLabel(app, text="for we hate fat bitches", font=("Arial", 23, "underline"), fg_color="transparent")
+url_label = ctk.CTkLabel(app, text="For Educational Purposes ONLY!", font=("Arial", 23, "underline"), fg_color="transparent")
 url_label.pack(pady=20)
 
-url_label2 = ctk.CTkLabel(app, text="made w/ love by dreamsrotting", font=("Arial", 10, "underline"), fg_color="transparent")
-url_label2.pack(pady=1)
+
 
 
 app.mainloop()
