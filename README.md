@@ -4,10 +4,10 @@ An automation tool that triggers "JJ" actions in Roblox games, designed for simp
 
 ## Features
 
-- Automatically sends pre-programmed key presses
-- Lightweight and easy to set up
+- Automatically sends chats for your jjs!
+- Lightweight and easy to set up!
 - Built with Python using libraries like `pynput`, `pyautogui`, and `pydirectinput`
-- Customizable settings to match different games
+- Customizable settings to match different games such as delay, type of JJ, etc!
 
 ## Requirements
 
