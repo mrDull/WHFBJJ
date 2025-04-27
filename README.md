@@ -65,6 +65,6 @@ Use responsibly and at your own risk.
 
 ## Credits
 
-Based on an earlier project (original repository unknown).  
-Credit to the original creator.  
+Based on an earlier project ([original repository](https://github.com/solorads/AutoJack)).  
+Credit to the original creator, [solorads](https://github.com/solorads).  
 This version is actively maintained and updated.
