@@ -188,7 +188,7 @@ def on_press(key):
         elif key == Key.f6:  # Stop the script when 'N' is pressed
             should_stop = True  # Set the stop flag
             print("Stopping script...")
-											 CTkMessagebox(title="Done", message="JJ script cut short!", icon="check")
+	    CTkMessagebox(title="Done", message="JJ script cut short!", icon="check")
     except AttributeError:
         pass  # Handle special keys like shift, etc.
 
